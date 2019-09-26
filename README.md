@@ -19,3 +19,37 @@ So obviously for this project you will need:
 
 - generate the buttons with the correct href to *redirect*
 
+
+
+# links.yaml
+
+```yaml
+# point to your own profile pic you want to display in your link.my.bio
+picture: "static/filename_of_your_selfie.[png|jpg]"
+# short auto biography about yourself
+shortbio: "brief paragraph that contains your short bio"
+
+# links will be an array of any amount of links you want your followers to discover
+links:
+    - facebook:
+        enable: True
+        link: "https://url_to_your.facebook.profile"
+        description: "check my facebook"
+    - instagram:
+        enable: True
+        link: "https://url_to_your.instagram.profile"
+        description: "How Cool my photos are in instagram :camera:"
+    - blog:
+        enable: False
+        link: "lorem ipsum"
+        description: "lorem ipsum dorem"
+    - etc:
+        enable: False
+        link: "http://etc.etc"
+        description: "any other link you want your followers to see"
+
+```
+
+
+
+# Example
