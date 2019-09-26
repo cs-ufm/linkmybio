@@ -58,7 +58,7 @@ links:
 ```
 > notice that the order of the attributes is irrelevant, what matters is that they should exist.
 
-# Example
+# Examples
 
 ## Example-1
 <br>
