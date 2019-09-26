@@ -10,7 +10,7 @@ From [link.tree](https://linktr.ee/):
 
 So obviously for this project you will need:
 
-- multiple destination where you want to send your followers, it might include: LinkedIn profile, Facebook profile, Instagram profile(s), personal blog, web store, etc.
+- multiple destination where you want to send your followers, it might include: LinkedIn profile, Facebook profile, Instagram profile(s), personal blog, web store, latest youtube video etc.
 - develop it in Flask
 - read the content dynamically via a yaml file (links.yaml)
 - generate the buttons with the correct href to *redirect*
